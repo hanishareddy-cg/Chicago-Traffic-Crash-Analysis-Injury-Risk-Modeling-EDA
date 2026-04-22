@@ -73,24 +73,4 @@ Traffic crashes impose enormous public health and economic costs on urban commun
 
 ---
 
-## Repository Structure
-
-```
-├── data/                  # Raw and cleaned dataset
-├── notebooks/             # Jupyter notebooks (EDA, modeling, evaluation)
-├── figures/               # Plots and visualizations
-└── README.md
-```
-
----
-
-## Future Work
-
-- Incorporate spatial analysis using latitude/longitude to identify high-risk crash corridors
-- Explore non-linear models (Random Forest, XGBoost) for improved injury prediction
-- Add road exposure data to normalize crash counts by traffic volume
-- Build a severity classification model (no injury → minor → incapacitating → fatal)
-
----
-
 *IE7275 – Data Mining in Engineering | Group 2*
